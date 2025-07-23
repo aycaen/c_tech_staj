@@ -1,0 +1,9 @@
+﻿  zeromq.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\zeromq\zeromq\zeromq.cpp(10,5): warning C4273: 'ConvertBinToWavSimple': tutarsız dll bağlantısı
+      C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\dll_bin_to_wav\dll_bin_to_wav\bin_to_wav.h(9,17):
+      önceki 'ConvertBinToWavSimple' tanımına bakın
+  
+  zeromq.vcxproj -> C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\zeromq\x64\Debug\zeromq.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
