@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
 C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
 C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
@@ -41,3 +42,48 @@ C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinForms
 C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
 C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
 C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+=======
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\AsyncIO.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\NaCl.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\NetMQ.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\System.ServiceModel.Security.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\System.ServiceModel.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\cs\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\de\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\es\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\fr\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\it\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ja\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ko\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\pl\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\pt-BR\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\ru\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\tr\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\zh-Hans\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\zh-Hant\System.ServiceModel.Primitives.resources.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\LENOVO\OneDrive - Yildiz Technical University\Desktop\projeler\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+>>>>>>> 1e19433177b8bc3ecf71bf447b928299250bc174
