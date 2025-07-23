@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\lenovo\\onedrive - yildiz technical university\\desktop\\projeler\\winformsapp2\\winformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\lenovo\\onedrive - yildiz technical university\\desktop\\projeler\\winformsapp2\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\lenovo\\onedrive - yildiz technical university\\desktop\\projeler\\winformsapp2\\winformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\lenovo\\onedrive - yildiz technical university\\desktop\\projeler\\winformsapp2\\winformsapp2\\zmqservermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\zmqservermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|c:\\users\\lenovo\\onedrive - yildiz technical university\\desktop\\projeler\\winformsapp2\\winformsapp2\\zmqrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{563BAFA1-3551-4818-ABA1-498A86E1ECB6}|WinFormsApp2\\WinFormsApp2.csproj|solutionrelative:winformsapp2\\zmqrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ZmqRequest.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\ZmqRequest.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\ZmqRequest.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\ZmqRequest.cs",
+              "RelativeToolTip": "WinFormsApp2\\ZmqRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:49:19.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZmqServerManager.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\ZmqServerManager.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\ZmqServerManager.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\ZmqServerManager.cs",
+              "RelativeToolTip": "WinFormsApp2\\ZmqServerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:45:27.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\Program.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\Program.cs",
+              "RelativeToolTip": "WinFormsApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:27:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\Form1.Designer.cs*",
+              "RelativeToolTip": "WinFormsApp2\\Form1.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T08:17:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\Form1.cs*",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs*",
+              "ViewState": "AgIAACkBAAAAAAAAAAAUwEABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:50:46.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsApp2\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\OneDrive - Yildiz Technical University\\Desktop\\projeler\\WinFormsApp2\\WinFormsApp2\\Form1.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "WinFormsApp2\\Form1.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T07:44:26.4Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
